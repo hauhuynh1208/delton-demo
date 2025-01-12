@@ -2,6 +2,7 @@
   "name": "free-nextjs-admin-dashboard",
   "version": "1.3.5",
   "private": true,
+  "homepage": "https://hauhuynh1208.github.io/delton-demo",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
